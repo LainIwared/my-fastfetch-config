@@ -110,10 +110,10 @@
       "format": "└──────────────────────────────────────────┘"
     },
     {
-      "type": "colors",
-      "paddingLeft": 2,
-      "symbol": "circle"
+      "type": "custom",
+      "format": "[input your own custom message]",
+      "outputColor": "[input your own color]"
     },
-    "break"
-  ]
+      "break"
+    ]
   }
