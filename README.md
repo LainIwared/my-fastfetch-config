@@ -1,6 +1,6 @@
 # This has everything for a custom fastfetch:
 just change and add modules as needed. 
-<img width="805" height="436" alt="Screenshot_20250716_170550-1" src="https://github.com/user-attachments/assets/7f49b216-ac6e-4e1b-b81e-20ba4d8f1b1f" />
+<img width="946" height="491" alt="Screenshot_20250716_204737" src="https://github.com/user-attachments/assets/0bc74ec8-0392-4f9b-8be3-1e8a186eea44" />
 
 # Has icons for parts of the system modules:
 has icons that show next to modules to add more customization.
