@@ -1,5 +1,5 @@
 # This has everything for a custom fastfetch:
-just change and add modules as needed. 
+just change and add modules as needed, make sure your using kitty and have imagemagick installed otherwise tge image wont show.
 <img width="1014" height="497" alt="Screenshot_20250716_205619" src="https://github.com/user-attachments/assets/5f305941-fa0e-41e8-a122-25265e268d93" />
 
 # Has icons for parts of the system modules:
