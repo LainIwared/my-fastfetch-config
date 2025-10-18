@@ -1,10 +1,12 @@
 # This has everything for a custom fastfetch:
 just change and add modules as needed, make sure your using kitty and have imagemagick installed otherwise the image wont show.
-<img width="1014" height="497" alt="Screenshot_20250716_205619" src="https://github.com/user-attachments/assets/5f305941-fa0e-41e8-a122-25265e268d93" />
+<img width="967" height="431" alt="updated_fastfetch" src="https://github.com/user-attachments/assets/2aca90c5-90de-40bf-a539-958cf12104f1" />
+
 
 # Has icons for parts of the system modules:
-has icons that show next to modules to add more customization.
-<img width="388" height="380" alt="Screenshot_20250716_205813" src="https://github.com/user-attachments/assets/55a214bc-653a-42c8-91de-7d315674cdcf" />
+has icons that show next to modules to add more customization if your using a different dist i recommend using https://www.nerdfonts.com/cheat-sheet to get your dist icon.
+<img width="564" height="361" alt="updated_iconff" src="https://github.com/user-attachments/assets/e30df352-d4a3-434c-b8fd-35e1d26ff114" />
+
 
 # Was inspired by someone elses config: 
 was inspired by a fastfetch config i saw on youtube wish i could rememeber the name to give him credit the only things i really changed was how the file 
