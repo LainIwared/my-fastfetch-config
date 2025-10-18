@@ -6,6 +6,8 @@ just change and add modules as needed, make sure your using kitty and have image
 # Has icons for parts of the system modules:
 has icons that show next to modules to add more customization if your using a different dist i recommend using 
 https://www.nerdfonts.com/cheat-sheet to get your dist icon.
+
+
 <img width="564" height="361" alt="updated_iconff" src="https://github.com/user-attachments/assets/e30df352-d4a3-434c-b8fd-35e1d26ff114" />
 
 
