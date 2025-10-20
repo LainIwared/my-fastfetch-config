@@ -59,7 +59,8 @@
     },
     {
       "type": "custom",
-      "format": "├────────────── Software Information ───────────────────────┤"
+      "format": "├────────────── Software Information ,
+      "outputColor": "#D1ED1A"
     },
     {
       "type": "os",
@@ -91,7 +92,8 @@
     },
     {
       "type": "custom",
-      "format": "├───────────────── OS Information ──────────────────────────┤"
+      "format": "├───────────────── OS Information ──────────────────────────┤",
+      "outputColor": "#D1ED1A"
     },
     {
       "type": "disk",
@@ -112,7 +114,8 @@
       },
     {
       "type": "custom",
-      "format": "└───────────────────────────────────────────────────────────┘"
+      "format": "└───────────────────────────────────────────────────────────┘",
+      "outputColor": "#D1ED1A"
     },
     {
       "type": "custom",
