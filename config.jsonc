@@ -59,7 +59,7 @@
     },
     {
       "type": "custom",
-      "format": "├────────────── Software Information ,
+      "format": "├────────────── Software Information ───────────────────────┤",
       "outputColor": "#D1ED1A"
     },
     {
